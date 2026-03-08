@@ -1,0 +1,4 @@
+Model B wins: 1
+Ties: 2
+Total valid evaluations: 15
+Win Rate: 13.33%
